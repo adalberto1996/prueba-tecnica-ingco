@@ -1,0 +1,35 @@
+Prueba técnica:
+
+Teniendo en cuenta el siguiente json
+
+https://api.fake-rest.refine.dev/users
+
+Crear una aplicación react con los siguientes requerimientos:
+
+[x] 1. Leer el json previamente descrito
+ [x]   2. Despliegue la información en una página web en una tabla. Los campos a mostrar de cada usuario son: 
+
+    firstName
+    lastName
+    email
+ [x]   3. Solo deben mostrarse los usuarios donde el campo status sea igual a  true
+ []   4. Crear opción para adicionar usuarios al array cargado solicitando estos 3 campos y mostrándose en el listado
+
+ [x]   5. Adicionar un botón frente a cada registro, este botón permitirá eliminar el registro del array después de confirmar si se desea eliminar.
+
+ []  6. Dar estilos al app utilizando una librería o creando propios estilos.
+
+ []   7. El proyecto debe subirse a un repositorio en github
+
+ []   8. La aplicación debe subirse a algún servidor público para poder visualizarse
+
+Los puntos a calificar son:
+Cumplimiento de los 8 anteriores requerimientos y adicionalmente se dan puntos por:
+
+- Codificación y orden de la aplicación
+- Documentación de la aplicación (en el código)
+- Funcionalidades adicionales que se incluyan
+- Lenguaje de programación: JS o TS (preferiblemente TS)
+
+
+Por favor en el correo de respuesta incluir una breve descripción de la aplicación indicando qué se hizo (qué paginas o componente susó) y como funciona

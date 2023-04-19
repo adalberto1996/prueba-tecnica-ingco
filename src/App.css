@@ -1,0 +1,56 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 80%;
+}
+header{
+  display: flex;
+  gap: 4px;
+  margin-bottom: 2px;
+  justify-content: center;
+  align-items: center;
+  align-content: flex-start;
+  flex-direction: column;
+}
+
+
+.showColors  tr:nth-child(2n){
+  background: #fafafa;
+  
+}
+
+.showColors tr:nth-child(2n+1), .buttom-blue {
+  background: #a8cdf0;
+}
+
+.buttonColor {
+  background: #bd4e53;
+}
+
+
+.cellButtom{
+  background-color: white;
+}
+
+thead {
+background-color: #edf2f3;
+color: #000000;
+
+}
+
+.addUser{
+  display: flex;
+  gap: 4px;
+  margin-bottom: 2px;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-direction: column;
+}
+
+.action-buttons{
+    gap: 3em;
+    margin-bottom: 12px;
+    display: flex;
+}

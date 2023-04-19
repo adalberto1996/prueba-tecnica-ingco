@@ -17,7 +17,7 @@ Crear una aplicación react con los siguientes requerimientos:
 
  [x]   5. Adicionar un botón frente a cada registro, este botón permitirá eliminar el registro del array después de confirmar si se desea eliminar.
 
- []  6. Dar estilos al app utilizando una librería o creando propios estilos.
+ [x]  6. Dar estilos al app utilizando una librería o creando propios estilos.
 
  []   7. El proyecto debe subirse a un repositorio en github
 

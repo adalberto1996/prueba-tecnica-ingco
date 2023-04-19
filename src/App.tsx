@@ -41,6 +41,7 @@ function App () {
           <label >Email</label>
           <input type="email" />
         </div>
+
         <div className='action-buttons'>
         <button className='buttom-blue'>
             Adicionar usuario
@@ -50,6 +51,7 @@ function App () {
           </button>
         </div>
       </header>
+
       <main>
         <ListUsers deleteUser= {handleDelete} users={users} />
       </main>
